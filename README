@@ -1,0 +1,6 @@
+bench.cpp geeft timings van gemiddelde gevallen
+bestBench.cpp geeft timings van best case behaviour
+worstBench.cpp geeft timings van worst case behaviour
+countBench.cpp telt het aantal tree accesses dat er gebeuren
+
+manhattan.cpp eerste iteratie, geeft tijd voor één run van een bepaalde grootte
